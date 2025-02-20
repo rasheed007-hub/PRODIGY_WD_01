@@ -1175,13 +1175,297 @@ footer{
         flex-direction: column;
         gap: 2rem;
     }
-
-
 }
 
 @media (max-width:576px){
+
+    .nav_bar{
+        padding-inline: 30px;
+    }
+
     .dropdown_menu{
         left: 2rem;
         width: unset;
     }
+
+    .h_content{
+        padding-inline: 2rem;
+    }
+
+    .content{
+        grid-template-columns: 1fr;
+    }
+
+    .text_content{
+        margin-left: 8rem;
+    }
+
+    .text_content>h4{
+        font-size: 12px;
+    }
+
+    .text_content>h1{
+        font-size: 26px;
+        width: 18rem;
+    }
+
+    .text_content>p{
+        width: 18rem;
+    }
+
+    .img_content{
+        height: 50vh;
+        width: 100%;
+        margin-top: -3rem;
+    }
+
+    .m_image>img{
+        height: 35vh;
+        margin-left: 6rem;
+    }
+    
+    .s_image{
+        margin-left: 8rem;
+        gap: 10rem;
+        position: relative;
+        top: 110px;
+    }
+
+    .coro{
+        height: 8vh;
+        width: 8vh;
+    }
+
+    .coro>img{
+        height: 5vh;
+    }
+
+    .a_image{
+        margin-top: -15rem;
+        margin-left: 8rem;
+        width: 270px;
+    }
+
+    .img>img{
+        height: 6vh;
+    }
+
+    .text>h2{
+        font-size: 18px;
+    }
+
+    .text>p{
+        font-size: 15px;
+    }
+
+    .location{
+        margin-top: -10rem;
+        padding-inline: 0;
+    }
+
+    .place{
+        grid-template-columns: 1fr;
+    }
+
+    .ads{
+        height: 4vh;
+        text-align: start;
+        justify-content: center;
+        gap: 1rem;
+        display: flex;
+        align-items: center;
+        padding: .8rem;
+    }
+    
+    .ima>img{
+        height: 2vh;
+        width: 100%;
+    }
+
+    .back{
+        padding-inline: 2rem;
+    }
+
+    .words{
+        font-size: 12px;
+        padding-inline: 1rem;
+    }
+
+    .form{
+        padding-inline: 1rem;
+    }
+
+    .input>input{
+        width: 17rem;
+    }
+
+    .link{
+        padding-inline: 1px;
+        text-align: center;
+    }
+
+    .link>p{
+        font-size: 11px;
+    }
+
+    .reason{
+        padding-inline: 2rem;
+    }
+
+    .one>p{
+        width: 20.9rem
+    }
+
+    .box{
+        width: 20rem;
+    }
+
+    .register{
+        padding-inline: 2rem;
+    }
+
+    .gis{
+        margin-left: -6rem;
+    }
+
+    .m_reg>img{
+        height: 60vh;
+    }
+
+    .s_img>img{
+        height: 10vh;
+        margin-left: 1rem;
+    }
+
+    .txt, .txt1{
+        margin-left: -1rem;
+    }
+
+    .reg_form{
+        padding-left: 0;
+    }
+
+    .reg_form>label{
+        font-size: 16px;
+    }
+
+    .reg_form>p{
+        width: 20rem;
+    }
+
+    .inu>input{
+        width: 20rem;
+    }
+
+    .inup{
+        flex-direction: column;
+        align-items: start;
+        gap: 1rem;
+    }
+
+    .inup>input{
+        width: 20rem;
+    }
+
+    .btn_>button{
+        width: 20rem;
+    }
+
+    .create>p, .create>a{
+        font-size: 12px;
+        width: 8rem;
+    }
+
+    .preventions{
+        padding-inline: 2rem;
+        height: 55vh;
+    }
+
+    .pre_txt{
+        padding: 0;
+        width: 100%;
+        padding-bottom: 2rem;
+    }
+
+    .pre_txt>h4{
+        font-size: 14px;
+    }
+    .pre_txt>h2{
+        font-size: 25px;
+    }
+    .pre_txt>p{
+        font-size: 12px;
+        width: 20rem;
+        padding-inline: 0;
+    }
+
+    .pre_img>img{
+        height: 25vh;
+    }
+
+    .pre_s>img{
+        height: 5vh;
+    }
+
+    .pre_img_txt{
+        background-color: #0b153c86;
+        width: 8rem;
+    }
+    .pre_img_txt>p{
+        font-size: 10px;
+    }
+
+    .s_pre{
+        bottom: 170px;
+        width: 14.7rem;
+        padding-left: .6rem;
+    }
+    .s_pre1{
+        bottom: 150px;
+        width: 14.7rem;
+        padding-left: .6rem;
+    }
+    .s_pre2{
+        bottom:130px;
+        width: 14.7rem;
+        padding-left: .6rem;
+    }
+
+    .pre_s>img{
+        margin-left: -10rem;
+    }
+
+    .feedback{
+        padding-inline: 2.4rem;
+    }
+
+    .feed>h2{
+        font-size: 24px;
+    }
+
+    .feed>p{
+        padding-inline: 0;
+    }
+
+    .f_quote>h3{
+        font-size: 18px;
+    }
+    .f_quote>p{
+        font-size: 14px;
+    }
+
+    .f_form>input{
+        width: 15rem;
+    }
+
+    .footer{
+        padding-inline: 2rem;
+    }
+
+    .nav_items>ul{
+        flex-direction: column;
+        align-items: start;
+        gap: 1rem;
+    }
+
 }
