@@ -1312,6 +1312,7 @@ footer{
     }
 
     .one>h1{
+        width: 17rem;
         font-size: 24px;
     }
 
@@ -1344,13 +1345,17 @@ footer{
     }
 
     .s_img>img{
-        height: 10vh;
+        height: 9vh;
         margin-left: 1rem;
-        margin-top: 5rem;
+        margin-top: 10rem;
+    }
+
+    .txt1{
+        margin-top: -5rem;
     }
 
     .txt, .txt1{
-        margin-left: -3rem;
+        margin-left: -4rem;
     }
 
     .reg_form{
