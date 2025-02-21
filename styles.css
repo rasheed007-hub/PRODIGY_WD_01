@@ -753,8 +753,7 @@ form{
 
 .pre_img_txt{
     background-color: #0d1c57;
-    color: #047491;
-    font-weight: 600;
+    color: #fff;
     width: 18rem;
     height: 3rem;
     display: flex;
@@ -1312,12 +1311,24 @@ footer{
         padding-inline: 2rem;
     }
 
+    .one>h1{
+        font-size: 24px;
+    }
+
     .one>p{
         width: 20.9rem
     }
 
     .box{
-        width: 20rem;
+        width: 18rem;
+    }
+
+    .box>h2{
+        font-size: 15px;
+    }
+
+    .box>a{
+        font-size: 12px;
     }
 
     .register{
@@ -1329,16 +1340,17 @@ footer{
     }
 
     .m_reg>img{
-        height: 60vh;
+        height: 40vh;
     }
 
     .s_img>img{
         height: 10vh;
         margin-left: 1rem;
+        margin-top: 5rem;
     }
 
     .txt, .txt1{
-        margin-left: -1rem;
+        margin-left: -3rem;
     }
 
     .reg_form{
@@ -1404,12 +1416,14 @@ footer{
     }
 
     .pre_s>img{
-        height: 5vh;
+        height: 4vh;
     }
 
     .pre_img_txt{
         background-color: #0b153c86;
-        width: 8rem;
+        width: 7rem;
+        padding-inline: 1rem;
+        text-align: center;
     }
     .pre_img_txt>p{
         font-size: 10px;
@@ -1417,22 +1431,22 @@ footer{
 
     .s_pre{
         bottom: 170px;
-        width: 14.7rem;
+        width: 16rem;
         padding-left: .6rem;
     }
     .s_pre1{
         bottom: 150px;
-        width: 14.7rem;
+        width: 16rem;
         padding-left: .6rem;
     }
     .s_pre2{
         bottom:130px;
-        width: 14.7rem;
+        width: 16rem;
         padding-left: .6rem;
     }
 
     .pre_s>img{
-        margin-left: -10rem;
+        margin-left: -8rem;
     }
 
     .feedback{
@@ -1445,6 +1459,10 @@ footer{
 
     .feed>p{
         padding-inline: 0;
+    }
+
+    .card{
+        width: 18rem;
     }
 
     .f_quote>h3{
