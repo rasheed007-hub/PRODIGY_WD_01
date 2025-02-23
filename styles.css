@@ -1178,6 +1178,15 @@ footer{
 
 @media (max-width:576px){
 
+    .headContent{
+        border: 1px solid black;
+    }
+
+    .ads, .back, .reason, .preventions, .feedback, .footer, .register, .quote{
+        border: 1px solid black;
+    }
+
+
     .nav_bar{
         padding-inline: 30px;
     }
