@@ -1193,7 +1193,7 @@ footer{
 
     .text_content>h1{
         font-size: 26px;
-        width: 18rem;
+        /* width: 18rem; */
     }
 
     .text_content>p{
