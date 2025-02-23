@@ -230,18 +230,6 @@
 }
 .m_image{
     padding-left: 3rem;
-    position: absolute;
-}
-
-.m_image>img{
-    height: 65vh;
-}
-
-.s_image{
-    display: flex;
-    gap: 20rem;
-    position: relative;
-    top: 170px;
 }
 
 .coro{
