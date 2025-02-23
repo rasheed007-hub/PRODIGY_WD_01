@@ -1179,7 +1179,7 @@ footer{
 @media (max-width:576px){
 
     .img_content{
-        width: 100%;
+        width: 50%;
     }
     .nav_bar{
         padding-inline: 30px;
