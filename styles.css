@@ -1180,12 +1180,11 @@ footer{
     .content{
         grid-template-columns: 1fr;
         padding-inline: 2rem;
-        justify-content: center;
     }
 
     .text_content{
         border: 1px solid #000;
-        padding-inline: 1rem;
+       width: 100%;
     }
 
     .text_content>h4{
