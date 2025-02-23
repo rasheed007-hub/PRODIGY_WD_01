@@ -1221,18 +1221,6 @@ footer{
         margin-top: -3rem;
     }
 
-    .m_image>img{
-        height: 35vh;
-        margin-left: 6rem;
-    }
-    
-    .s_image{
-        margin-left: 8rem;
-        gap: 10rem;
-        position: relative;
-        top: 110px;
-    }
-
     .coro{
         height: 8vh;
         width: 8vh;
