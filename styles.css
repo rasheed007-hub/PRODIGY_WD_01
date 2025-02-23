@@ -1199,11 +1199,14 @@ footer{
 
     .img_content{
         height: 40vh;
-        padding-bottom: 3rem;
     }
 
     .m_image>img{
         height: 40vh;
+    }
+
+    .location{
+        padding-top: 5rem;
     }
 
     .coro{
