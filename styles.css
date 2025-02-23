@@ -1179,7 +1179,7 @@ footer{
 @media (max-width:576px){
 
     .s_image{
-        width: 100%;
+        width: 20rem;
         border: 2px solid black;
     }
     .nav_bar{
