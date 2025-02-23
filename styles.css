@@ -1180,6 +1180,7 @@ footer{
 
     .nav_bar{
         padding-inline: 30px;
+        width: 10rem;
     }
 
     .dropdown_menu{
@@ -1464,6 +1465,11 @@ footer{
 
     .feed>p{
         padding-inline: 0;
+        font-size: 13px;
+    }
+
+    .card p{
+        font-size: 13px;
     }
 
     .card{
