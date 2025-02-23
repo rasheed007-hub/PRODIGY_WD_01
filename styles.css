@@ -1199,7 +1199,7 @@ footer{
 
     .img_content{
         height: 40vh;
-        padding-bottom: 1rem;
+        padding-bottom: 3rem;
     }
 
     .m_image>img{
@@ -1213,12 +1213,6 @@ footer{
 
     .coro>img{
         height: 5vh;
-    }
-
-    .a_image{
-        margin-top: -15rem;
-        margin-left: 8rem;
-        width: 270px;
     }
 
     .img>img{
@@ -1293,9 +1287,9 @@ footer{
     }
 
     .one>p{
+        padding-top: -1rem;
         width: 20rem;
         font-size: 12px;
-        border: 1px solid black;
     }
 
     .box{
