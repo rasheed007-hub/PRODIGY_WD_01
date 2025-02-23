@@ -1164,9 +1164,6 @@ footer{
 
 @media (max-width:576px){
 
-    .img_content{
-        border: 2px solid black;
-    }
     .nav_bar{
         padding-inline: 30px;
     }
