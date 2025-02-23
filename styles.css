@@ -1113,15 +1113,17 @@ footer{
 
     .text_content>h4{
         font-size: 12px;
+        border: 1px solid #000;
     }
 
     .text_content>h1{
         font-size: 26px;
-        /* width: 18rem; */
+        border: 1px solid #000;
     }
 
     .text_content>p{
         width: 18rem;
+        border: 1px solid #000;
     }
 
     .img_content{
