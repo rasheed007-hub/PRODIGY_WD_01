@@ -1184,10 +1184,6 @@ footer{
         grid-template-columns: 1fr;
     }
 
-    .text_content{
-        margin-left: 8rem;
-    }
-
     .text_content>h4{
         font-size: 12px;
     }
@@ -1203,11 +1199,10 @@ footer{
 
     .img_content{
         height: 40vh;
-        margin-top: -3rem;
     }
 
     .m_image>img{
-        height: 50vh;
+        height: 40vh;
     }
 
     .coro{
