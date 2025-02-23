@@ -1177,6 +1177,10 @@ footer{
 }
 
 @media (max-width:576px){
+
+    .content{
+        border: 1px solid red;
+    }
     .nav_bar{
         padding-inline: 30px;
     }
