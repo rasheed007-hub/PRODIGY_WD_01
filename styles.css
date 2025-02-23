@@ -229,39 +229,8 @@
     width: 50%;
 }
 
-
-.coro{
-    background-color: #fff;
-    text-align: center;
-    width: 90px;
-    border-radius: 10px;
-}
-
-.a_image{
-    position: relative;
-    background-color: #c4c4c48f;
-    width: 350px;
-    padding: .5rem;
-    top: 300px;
-    display: flex;
-    align-items: center;
-    gap: 1rem;
-    border-radius: 10px;
-}
-
-.text>h2{
-    color: #fff;
-}
-
-.text>p{
-    color: #17C2EC;
-    font-size: 20px;
-    font-weight: 600;
-}
-
 .location{
     padding-top: 9rem;
-
 }
 
 .sched{
