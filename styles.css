@@ -1178,10 +1178,9 @@ footer{
 
 @media (max-width:576px){
 
-    .img_content, .s_image, .a_image{
-        /* width: 2rem; */
+    .s_image{
+        width: 2rem;
         border: 2px solid black;
-        /* padding-inline: -10px; */
     }
     .nav_bar{
         padding-inline: 30px;
